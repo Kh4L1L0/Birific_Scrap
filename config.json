@@ -1,7 +1,7 @@
 {
     "spaceCircularDB": "https://www.itu.int/sns/wic/demowic24.html",
-    "email": "zouhair@emi.ac.ma",
-    "password": "Curts$_2022",
+    "email": "exmample@example.com",
+    "password": "password",
     "band_freq": [
       [2094.875, 2095.125],
       [2092.875, 2093.125],
