@@ -53,7 +53,7 @@ To run `BirificScrap`, navigate to the directory containing `BirificScrap.exe` a
 The application outputs the results in a CSV file specified in the configuration. The CSV file will include the following columns:
 
 - **adm**: Administration or entity managing the satellite.
-- **band**: Frequency band classification (e.g., S-band, UHF).
+- **band**: Frequency band classification (S-band, UHF).
 - **Satellite** name: The name of the satellite.
 - **Date** of receipt: The date the satellite frequency data was recorded.
 - **ssn_ref**: The reference number associated with the satellite.
